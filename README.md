@@ -1,5 +1,5 @@
 # Introduction
-This repository showcases my virtual experience in the JP Morgan & Chase Co.
+This repository showcases my work experience in the JP Morgan & Chase Co virtual internship.
 
 ### Task 1
 - Implemented an interface with a stock price data feed and set up my system for analysis of the data
