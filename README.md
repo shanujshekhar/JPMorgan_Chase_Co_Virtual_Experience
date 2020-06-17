@@ -11,7 +11,7 @@ This repository showcases my work experience in the JP Morgan & Chase Co virtual
     Used the perspective tool to create the chart for the trader's dashboard
 
 ## Certificate of Completion
-<img src="./Certificate.JPG" width="400">
+<img src="./Certificate.JPG" width="700">
 
 ## Website Link
 https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk
